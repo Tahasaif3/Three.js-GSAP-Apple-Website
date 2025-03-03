@@ -31,8 +31,8 @@ This project is a hands-on exploration of **Three.js** (for 3D rendering) and **
 
 2.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/Starklord17/Three.js-GSAP
-    cd Three.js-GSAP
+    git clone https://github.com/Tahasaif3/Three.js-GSAP-Apple-Website
+    cd Three.js-GSAP-Apple-Website
     ```
 
 3.  **Install Dependencies:**
