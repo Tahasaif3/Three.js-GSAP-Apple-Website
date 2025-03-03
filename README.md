@@ -37,12 +37,12 @@ This project is a hands-on exploration of **Three.js** (for 3D rendering) and **
 
 3.  **Install Dependencies:**
     ```bash
-    pnpm install
+    npm install
     ```
 
 4.  **Run the Development Server:**
     ```bash
-    pnpm run dev
+    npm run dev
     ```
 5. **Open your browser and navigate to: http://localhost:5173**
 
@@ -50,7 +50,7 @@ This project is a hands-on exploration of **Three.js** (for 3D rendering) and **
 ### 🌐 Deployed with Vercel
 You can see a live version of this project here:
 
-[-View Live/
+[View Live
 ](https://three-js-gsap-apple-website.vercel.app//)
 
 ### 📚 Learning Resources
