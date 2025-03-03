@@ -50,8 +50,8 @@ This project is a hands-on exploration of **Three.js** (for 3D rendering) and **
 ### 🌐 Deployed with Vercel
 You can see a live version of this project here:
 
-- https://max-threejs-gsap.vercel.app/
-
+[-View Live/
+](https://three-js-gsap-apple-website.vercel.app//)
 
 ### 📚 Learning Resources
 
